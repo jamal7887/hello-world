@@ -1,3 +1,4 @@
 # hello-world
 hello-world repository
-helloworld
+mijn naam is jamal ik studeer software development
+
